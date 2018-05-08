@@ -5,7 +5,6 @@ INDEX VERSION 1.127+C:\Tools\workspacejenkinstest\.metadata\.plugins\org.eclipse
 163172794.index
 1115467115.index
 4041092966.index
-3023967298.index
 3133528496.index
 1697886153.index
 4108727661.index
