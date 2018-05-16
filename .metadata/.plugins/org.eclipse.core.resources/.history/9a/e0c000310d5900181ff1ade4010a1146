@@ -10,11 +10,8 @@ public class runtest {
 		WebDriver driver = new ChromeDriver();
 		driver.manage().window().maximize();
 		driver.get("http://opensource.dem.orangehrmlive.com/");
-		for (int i = 0; i < 100 ; i++) {
-			System.out.println(driver.getTitle());
-			
-		}
 		
+		System.out.println(driver.getTitle());
 		driver.quit();
 		
 	}
